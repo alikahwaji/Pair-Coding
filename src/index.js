@@ -6,3 +6,4 @@ console.log("Pair coding")
  * this is a pair coding class
  */
 console.log("Hello from Paul")
+console.log("Working with nodemon")
